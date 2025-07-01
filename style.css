@@ -45,8 +45,14 @@ nav li a:hover:not(.active) {
   background-color: #04AA6D;
 }
 
+article {
+  width: 700px;
+  margin: 20px auto ;
+  border: 3px solid #a52a2a;
+  padding: 10px;
+}
+
 footer {
-    position: fixed;
     bottom: 0;
     width: 100%;
     text-align: center;
