@@ -2,10 +2,16 @@ body {
     background-color: #000000;
     color: #fffff0;
     font-family: Georgia, serif;
+    margin: 0;
 }
 
 body a {
     color: #a52a2a;
+}
+
+header a img {
+    width: 10%;
+    height: auto;
 }
 
 nav ul {
@@ -37,4 +43,11 @@ nav li a:hover:not(.active) {
 
 .active {
   background-color: #04AA6D;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
 }
