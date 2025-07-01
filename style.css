@@ -9,9 +9,12 @@ body a {
     color: #a52a2a;
 }
 
-header a img {
+#logo-pic {
+    display: block;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
     width: 10%;
-    height: auto;
 }
 
 nav ul {
