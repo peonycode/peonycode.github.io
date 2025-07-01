@@ -52,6 +52,12 @@ article {
   padding: 10px;
 }
 
+img.center-pic {
+  width: 80%;
+  height: auto;
+  margin: 10px 10%;
+}
+
 footer {
     bottom: 0;
     width: 100%;
